@@ -1,7 +1,1 @@
-{
-  "format": 1,
-  "manifest_version": 1,
-  "packs": [],
-  "signed_bytes_sha256": "b4e9efc020687cc3456d64bbeb8f0bf3b08453e5094f604c9643cd1d6223423f",
-  "signature_b64": "T5eLftnuxeiwyxM2E162dLBfLP+3jtDhieajmT+81pt1Dk3mslFaYjKdeczZ7n2ZNCsr5YlBtBWnK0osI6WxAA=="
-}
+{"format":1,"manifest_version":2,"packs":[{"id":"ui-labels","version":1,"url":"ui-labels.json","sha256":"b435c1d98686b6e4aff26c990c2efcdd0f707d1705caef7e6f6b18e1a7ba32c3","type":"json"}],"signed_bytes_sha256":"7cfe27d1589581165bc324ab116afe346206729c68b6f09289f256dbe7863ea9","signature_b64":"au0//S29VlXlc1uZ3cES432CsVJLrPvyHa4Vkst3V74Cg0A/ohCvQ4injKotADVhuQLAmlNWb+izrrZlCD7QDQ=="}
