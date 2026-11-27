@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "manifest_version": 8,
+  "manifest_version": 9,
   "packs": [
     {
       "id": "ui-labels",
@@ -11,13 +11,13 @@
     }
   ],
   "shell": {
-    "version": 6,
-    "url": "1-shell-6.zip",
-    "sha256": "e675cffe1a4b9112850db4f0d2edf46f4077443b75cde87c5e6af622a9db8fec",
-    "size": 10564396,
+    "version": 7,
+    "url": "3-shell-7.zip",
+    "sha256": "2b7c1e86f39782b709d3cf6b2e1b8bcd3fd617751e6f57996648dc0aeccf9b83",
+    "size": 11430792,
     "min_shell": "0.9.21",
-    "signature_b64": "Sy255lduB146d2kjv+qPHDVQ5PIJW4McGoOwODh1bfZJkc9hyYIl7hKxyWeWOtx2gnsl/iacz3/7c1lnJKCHCg=="
+    "signature_b64": "ySKcOuBB1WDkaFP02Jn6toIzBoxsGjh+VEcsK19UXxSMjvDtyuy+9sfZhXhIfEoKv0Fz3Lhi9xcz8RYdKql5CQ=="
   },
-  "signed_bytes_sha256": "2d202991e4a00e5975566f399c1507842687aecceceec94c76ae230a24fa63ac",
-  "signature_b64": "fiNhF8iNTH/YZAoeDpkFFFoyUXRGtSmj1HeHa6ay6QwtMGxx+pGtRAIOZdOoedMt9CeBOdflRIpmIZFWbR6KDg=="
+  "signed_bytes_sha256": "d012f75d57b713d4ecb57bfe5d3c3e40c621f2a0cabf66fa37076617928f237b",
+  "signature_b64": "pJn4STOoG7pM/WmddimYmoACmeS7PxXUp2lNbRSuqZ+Tzmxkl6wW0nIuC3l37j8d8mAe6XBVPBBENlV5gaqyDg=="
 }
